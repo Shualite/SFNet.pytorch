@@ -1,6 +1,6 @@
 # SFNet.pytorch
 
-An unofficial implementation of SENet, proposed in **Semantic Flow for Fast and Accurate Scene Parsing** by Xiangtai Li1*, Ansheng You1*, Zhen Zhu2, Houlong Zhao3, Maoke Yang3, Kuiyuan Yang3, Yunhai Tong1
+An unofficial implementation of SFNet, proposed in **Semantic Flow for Fast and Accurate Scene Parsing** by Xiangtai Li1*, Ansheng You1*, Zhen Zhu2, Houlong Zhao3, Maoke Yang3, Kuiyuan Yang3, Yunhai Tong1
 
 
 ## Pre-requirements
